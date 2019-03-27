@@ -1,0 +1,41 @@
+@charset "utf-8";
+/* CSS Document */
+header 
+{ 
+	background:#010101;
+	color:white;
+	text-transform:uppercase;
+}
+section {background:blue;}
+footer 
+{
+	background:#B010EC;
+	text-transform:uppercase;
+	text-align:center;
+}
+aside
+{
+	background:#06D62D;
+	color:white;
+}
+#parrafo_1
+{
+	background:#CEB2D9;
+	color:#000
+}
+#parrafo_2
+{
+	background:#097906;
+	color:#000;
+}
+#parrafo_3
+{
+	background:#99F40A;
+	color:#000;
+}
+#parrafo_4
+{
+	background:
+}
+
+
